@@ -46,4 +46,3 @@ This project simulates the above process visually.
 ```bash
 g++ main.cpp -IC:/SFML/include -LC:/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system -o app.exe
 
-<img width="795" height="419" alt="image" src="https://github.com/user-attachments/assets/6d8fcfc9-94ae-43f8-9560-08d1a5b5be6d" />
